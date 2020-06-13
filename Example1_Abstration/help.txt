@@ -1,0 +1,5 @@
+1.-create the folder Person
+2.- go to into the folder, make right click and open Visual Studio Code
+3- open a new terminal; run this command: dotnet new console (it is going to create 2 files Person.csproj and Progran.cs we are going to work with this last one)
+4.- crear a new file to our class person-> new file and put as a name Person.cs 
+5.- let's go to work on it!
